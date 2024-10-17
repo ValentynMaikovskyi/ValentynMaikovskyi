@@ -35,3 +35,5 @@ src="https://img.shields.io/github/followers/ValentynMaikovskyi?logo=github&styl
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ValentynMaikovskyi)]
+

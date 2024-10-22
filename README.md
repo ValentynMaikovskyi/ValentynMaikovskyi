@@ -18,7 +18,7 @@
 
 
 
-### Skills
+<h3 align="center">Skills</h3>
 
 ### Core Technology
 <p align="left">

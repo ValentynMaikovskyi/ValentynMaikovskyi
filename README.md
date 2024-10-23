@@ -18,9 +18,9 @@
 
 
 
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
 
-### Core Technology
+<h3 align="center">Core Technology</h3>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -65,5 +65,6 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ValentynMaikovskyi&theme=dark_dimmed)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="http://www.github.com/ValentynMaikovskyi"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ValentynMaikovskyi&theme=dark_dimmed&no-frame=true&no-bg=true&column=8" /></a>
+</p>
 

@@ -65,6 +65,6 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) 
 
-<a href="http://www.github.com/ValentynMaikovskyi"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ValentynMaikovskyi&theme=dark_dimmed&no-frame=true&no-bg=true&column=8" /></a>
+<a href="http://www.github.com/ValentynMaikovskyi"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ValentynMaikovskyi&theme=dark_dimmed&no-frame=true&no-bg=true&column=-1" /></a>
 </p>
 

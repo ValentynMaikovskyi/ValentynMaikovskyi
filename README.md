@@ -48,7 +48,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ValentynMaikovskyi"><img src="https://github-readme-stats.vercel.app/api?username=ValentynMaikovskyi&show_icons=true&theme=radical&hide_border=true&bg_color=1c1917" alt="ValentynMaikovskyi's GitHub stats" /></a>
+<a href="http://www.github.com/ValentynMaikovskyi"><img src="https://github-readme-stats.vercel.app/api?username=ValentynMaikovskyi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="ValentynMaikovskyi's GitHub stats" /></a>
 
 
 

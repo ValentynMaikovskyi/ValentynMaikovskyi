@@ -1,4 +1,8 @@
-<div align="center" > <h1>Hi My name is Valentyn Maikovskyi </h1></div>
+<p align="center">
+  <img src="octocat.png" width="500" alt="Octocet Valentyn" />
+</p>
+
+<h1 align="center">Hi My name is Valentyn Maikovskyi </h1>
 <div align="center">
 <a href= "mailto: name@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 	&#32;
 <a href="https://www.github.com/ValentynMaikovskyi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/ValentynMaikovskyi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -10,17 +14,13 @@
 <p align="center">Welcome to my profile! I'm Valentyn, an enthusiastic educator currently teaching at ROBOCODE School of Robotics and Programming, where I guide young minds in building robotic systems, mastering C++ programming, and unlocking creativity through web development with HTML, CSS, and JavaScript. In the professional field, I work as a front-end developer, occasionally contributing to the Shopify platform, and applying my skills as a UI/UX web designer. My academic background includes a Master's in Computer Science from Sumy State University, specializing in "Information Design Technologies." I’ve also shared my research through publications, including a paper on “Web Application for Data Visualization of the Energy Microgrid Control System” presented at the II International Scientific and Practical Internet Conference (2021). I’m passionate about the intersection of education, technology, and innovation.</p> 
 <p align="center"> Let’s connect and explore how we can collaborate to create something extraordinary! </p>
 
-<p align="left">
 
 * 🌍  I'm based in Sumy, Ukraine
 * ✉️  You can contact me at [maikovskii.valentin@gmail.com](mailto:maikovskii.valentin@gmail.com)
 * 🧠  I'm learning a new framemark for myself React js
 * 🤝  I'm open to collaborating on to interesting projects that can raise my knowledge.
 
-</p>
-<p align="right">
-  <img src="" width="45" height="45" alt="Octocet Valentyn" />
-</p>
+
 
 
 

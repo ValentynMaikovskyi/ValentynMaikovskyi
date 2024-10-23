@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="octocat.png" width="500" alt="Octocet Valentyn" />
-</p>
-
 <h1 align="center">Hi My name is Valentyn Maikovskyi </h1>
 <div align="center">
 <a href= "mailto: name@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 	&#32;
@@ -20,9 +16,17 @@
 * 🧠  I'm learning a new framemark for myself React js
 * 🤝  I'm open to collaborating on to interesting projects that can raise my knowledge.
 
+  
+<h2 align="center"><b>Some Stats</b></h2>
 
+<p align="center">
+  <a href="http://www.github.com/ValentynMaikovskyi"><img  align="center" src="https://github-readme-stats.vercel.app/api?username=ValentynMaikovskyi&show_icons=true&hide=issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true&ring_color=b7f8db" alt="ValentynMaikovskyi's GitHub stats" /></a>
+  <a href="https://github.com/ValentynMaikovskyi" align="left"><img align="center" heigh=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentynMaikovskyi&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 
-
+<p align="center">
+<a href="http://www.github.com/ValentynMaikovskyi"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentynMaikovskyi&stroke=ffffff&background=0D1117&ring=b7f8db&fire=da4453&currStreakNum=ffffff&currStreakLabel=da4453&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
 <h2 align="center">Skills</h2>
 
@@ -100,28 +104,7 @@
 
 
 
-<h2 align="center"><b>Some Stats</b></h2>
 
-<p align="center">
-  <a href="http://www.github.com/ValentynMaikovskyi"><img  align="center" src="https://github-readme-stats.vercel.app/api?username=ValentynMaikovskyi&show_icons=true&hide=issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&show_icons=true&ring_color=b7f8db" alt="ValentynMaikovskyi's GitHub stats" /></a>
-  <a href="https://github.com/ValentynMaikovskyi" align="left"><img align="center" heigh=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentynMaikovskyi&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
-<p align="center">
-<a href="http://www.github.com/ValentynMaikovskyi"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ValentynMaikovskyi&stroke=ffffff&background=0D1117&ring=b7f8db&fire=da4453&currStreakNum=ffffff&currStreakLabel=da4453&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="" />
-</picture>
-
-
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) 
 
 <a href="http://www.github.com/ValentynMaikovskyi"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ValentynMaikovskyi&theme=dark_dimmed&no-frame=true&no-bg=true&column=-1" /></a>
 </p>
